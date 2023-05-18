@@ -8,3 +8,14 @@ C:\Users\Коля\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\De
 C:\Users\Коля\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.exe
 C:\Users\Коля\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.pdb
 C:\Users\Коля\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика_18_1_2.Form1.resources
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\bin\Debug\Пркатика 18_1_2.exe.config
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\bin\Debug\Пркатика 18_1_2.exe
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\bin\Debug\Пркатика 18_1_2.pdb
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика_18_1_2.Form1.resources
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика_18_1_2.Properties.Resources.resources
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.csproj.GenerateResource.cache
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.exe
+C:\Users\андрей\Desktop\Пркатика 18_1_2\Пркатика 18_1_2\obj\Debug\Пркатика 18_1_2.pdb
