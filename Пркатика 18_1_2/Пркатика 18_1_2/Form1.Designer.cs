@@ -69,9 +69,9 @@ namespace Пркатика_18_1_2
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(446, 19);
+            this.listBox1.Location = new System.Drawing.Point(305, 19);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(246, 173);
+            this.listBox1.Size = new System.Drawing.Size(246, 251);
             this.listBox1.TabIndex = 3;
             // 
             // button2
@@ -120,7 +120,7 @@ namespace Пркатика_18_1_2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(559, 289);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox2);
@@ -132,7 +132,6 @@ namespace Пркатика_18_1_2
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

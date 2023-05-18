@@ -28,7 +28,7 @@ namespace Пркатика_18_1_2
                     if (num > 0 && num <= 100)
                     {
                         StreamWriter sw = File.AppendText("filenum.txt");
-                        sw.Write(" " + num);
+                        sw.Write(num + "\n");
                         sw.Close();
                         MessageBox.Show("Число успешно записано в файл");
                     }
@@ -46,11 +46,6 @@ namespace Пркатика_18_1_2
             {
                 MessageBox.Show("Строка не заполнена");
             }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -80,24 +75,19 @@ namespace Пркатика_18_1_2
                                     FromAToB.Enqueue(number);
                             }
                             listBox1.Items.Add("Числа от а до b \n");
-                            while (FromAToB.Count > 0)
-                            {
-                                listBox1.Items.Add(FromAToB.Peek());
-                            }
-                            /*
                             for (int i = 0; i < FromAToB.Count; i++)
                             {
-                                listBox1.Items.Add(FromAToB.Peek());
-                            }*/
+                                listBox1.Items.Add(FromAToB.Dequeue());
+                            }
                             listBox1.Items.Add("Числа меньше а \n");
-                            while(LessThenA.Count > 0)
+                            for (int i = 0; i < LessThenA.Count; i++)
                             {
-                                listBox1.Items.Add(FromAToB.Peek());
+                                listBox1.Items.Add(LessThenA.Dequeue());
                             }
                             listBox1.Items.Add("Числа больше b \n");
-                            while (MoreThenB.Count > 0)
-                            { 
-                                listBox1.Items.Add(MoreThenB.Peek());
+                            for (int i = 0; i < MoreThenB.Count; i++)
+                            {
+                                listBox1.Items.Add(MoreThenB.Dequeue());
                             }
                         }
                         else
